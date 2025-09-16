@@ -1,0 +1,53 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:58.314020",
+  "default_ports": [
+    1433,
+    2022,
+    4096
+  ],
+  "dependencies": [],
+  "description": "Enterprise-grade relational database management system for mission-critical applications. Full-featured database platform with advanced security, high availability, and comprehensive tooling for Linux environments.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/mssql",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/mssql",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.314039",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "mssql",
+  "repository_url": "https://github.com/howtomgr/mssql",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "Microsoft SQL Server Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/mssql"
+}
